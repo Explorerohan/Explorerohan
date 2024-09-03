@@ -1,7 +1,7 @@
 Hello, World! 🌍
 Welcome to my GitHub profile! I’m Rohan, a passionate IT student, budding developer, and tech enthusiast, currently exploring the vast landscape of programming and software development. 🚀
 
-<div align="center"> <img src="https://your-cdn-link.com/profile-banner.png" alt="Profile Banner" width="800" /> </div>
+<div align="center"> <img src="https://via.placeholder.com/800x200.png?text=Your+Profile+Banner" alt="Profile Banner" width="800" /> </div>
 🚀 About Me
 💻 Tech Enthusiast: I’m deeply interested in technology and programming, constantly exploring new avenues in the world of IT.
 🎓 Student: Currently pursuing my IT degree, honing my skills and knowledge to become a proficient developer.
@@ -42,9 +42,5 @@ LinkedIn: Rohan LinkedIn
 Twitter: @rohan_dev
 Feel free to connect with me on any of these platforms. I’m always open to discussing new ideas, collaborations, and opportunities.
 
-<div align="center"> <img src="https://your-cdn-link.com/footer-banner.png" alt="Footer Banner" width="800" /> </div>
+<div align="center"> <img src="https://via.placeholder.com/800x200.png?text=Footer+Banner" alt="Footer Banner" width="800" /> </div>
 Thank you for visiting my profile! Let’s create something amazing together. 🌟
-<!---
-Explorerohan/Explorerohan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
