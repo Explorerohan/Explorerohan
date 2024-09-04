@@ -53,7 +53,7 @@ Technologies: React, Node.js, MongoDB
 Preview: <div align="center"> <img src="https://user-images.githubusercontent.com/your-username/recipe-manager-preview.gif" alt="Recipe Manager" width="500" /> </div>
 <div align="center"> <img src="https://user-images.githubusercontent.com/your-username/code-analyze.gif" alt="Analyze Code Animation" width="800" /> </div>
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Explorerohan &theme=radical" alt="GitHub Streak"> </p>
 🏆 Achievements
 Python Developer Certification from Python Institute
 React Developer Nanodegree from Udacity
