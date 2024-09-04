@@ -1,6 +1,4 @@
-Welcome to My Futuristic Space 🚀✨
-
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00C2FF&size=30&center=true&vCenter=true&width=500&height=50&lines=Hello,+I'm+Rohan;Welcome+to+my+GitHub+Universe!" alt="Typing SVG"> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00C2FF&size=30&center=true&vCenter=true&width=500&height=50&lines=Hello,+I'm+Rohan; Welcome+to+my+GitHub+Profile!" alt="Typing SVG"> </div>
 <div align="center"> <img src="https://user-images.githubusercontent.com/your-username/cyber-avatar.gif" alt="Cyber Avatar" width="200" /> </div>
 🌌 About Me
 Name: Rohan
@@ -53,7 +51,7 @@ Technologies: React, Node.js, MongoDB
 Preview: <div align="center"> <img src="https://user-images.githubusercontent.com/your-username/recipe-manager-preview.gif" alt="Recipe Manager" width="500" /> </div>
 <div align="center"> <img src="https://user-images.githubusercontent.com/your-username/code-analyze.gif" alt="Analyze Code Animation" width="800" /> </div>
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Explorerohan &theme=radical" alt="GitHub Streak"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Explorerohan&show_icons=true&theme=radical" alt="GitHub Stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Explorerohan &theme=radical" alt="GitHub Streak"> </p>
 🏆 Achievements
 Python Developer Certification from Python Institute
 React Developer Nanodegree from Udacity
