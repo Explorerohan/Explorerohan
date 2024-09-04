@@ -3,6 +3,6 @@
   
   <!-- Profile Views Counter -->
   <p align="center">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frohan&count_bg=%2336BCF7&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=true" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blue" alt="Profile Views" />
   </p>
 </div>
