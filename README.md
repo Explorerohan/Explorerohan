@@ -3,8 +3,6 @@ Welcome to My Futuristic Space 🚀✨
 <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00C2FF&size=30&center=true&vCenter=true&width=500&height=50&lines=Hello,+I'm+Rohan;Welcome+to+my+GitHub+Universe!" alt="Typing SVG"> </div>
 <div align="center"> <img src="https://user-images.githubusercontent.com/your-username/cyber-avatar.gif" alt="Cyber Avatar" width="200" /> </div>
 🌌 About Me
-yaml
-Copy code
 name: Rohan
 status: IT Student & Aspiring Developer
 code: ["Python", "JavaScript", "Dart", "HTML/CSS"]
