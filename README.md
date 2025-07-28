@@ -1,7 +1,26 @@
-# 👋 Hi there, I'm Rohan Rai!
+# 👋 Hi there, I'm 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  
+  <!-- Animated Name with Glowing Effect -->
+  <h1 align="center">
+    <a href="https://rohan-rai.com.np">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=2000&color=00D4FF&center=true&vCenter=true&width=500&height=60&lines=ROHAN+RAI" alt="Rohan Rai" />
+    </a>
+  </h1>
+  
+  <!-- Animated Subtitle -->
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Django+Developer;Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast" alt="Typing SVG" />
+  </p>
+  
+  <!-- Animated Badge -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Django%20Developer-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django Developer" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  </p>
+  
 </div>
 
 ## 🚀 About Me
