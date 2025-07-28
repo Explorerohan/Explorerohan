@@ -1,10 +1,34 @@
-<div align="center">
-  
-  <!-- Unique Name Animation -->
-  <h1 align="center">
-    <a href="https://rohan-rai.com.np">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=60&pause=4000&color=00FFFF&center=true&vCenter=true&width=700&height=100&lines=ROHAN+RAI" alt="Rohan Rai" />
-    </a>
-  </h1>
-  
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Animated developer gif" />
+</p>
+
+<h1 align="center">Hi there, I'm Rohan 👋</h1>
+
+<p align="center">
+  <b>A Curious Coder | Creative Thinker | Passionate Learner</b>
+</p>
+
+---
+
+### 🛠️ Tech Stack
+```bash
+💻 Languages: Python, JavaScript, Java.
+🌐 Frontend: HTML5, CSS3, JavaScript, React Native, Tailwind CSS
+🗄️ Backend: Django, Python
+⚙️ Tools & Platform: Git, VS Code, Firebase, Postmnan. 
+```
+
+### 📫 Connect With Me
+<p align="lef">
+  <a href="https://www.linkedin.com/in/rohan-rai-9bb78a327/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:rohan0004444@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://rohan-rai.com.np">
+    <img src="https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+---
