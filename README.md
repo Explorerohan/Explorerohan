@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Animated developer gif" />
+  <img src="https://media1.tenor.com/m/46Z0icVkLYgAAAAd/coding-is-tough-coding.gif" height="400" width="1000" alt="Animated developer gif" />
 </p>
 
 <h1 align="center">Hi there, I'm Rohan 👋</h1>
