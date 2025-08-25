@@ -12,7 +12,7 @@
 
 ### 🛠️ Tech Stack
 ```bash
-💻 Languages: Python, JavaScript, Java.
+💻 Languages: Python, JavaScript.
 🌐 Frontend: HTML5, CSS3, JavaScript, React Native, Tailwind CSS
 🗄️ Backend: Django, Python
 ⚙️ Tools & Platform: Git, VS Code, Firebase, Postmnan. 
