@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/46Z0icVkLYgAAAAd/coding-is-tough-coding.gif" height="350" width="1000" alt="Animated developer gif" />
+  <img src="https://media1.tenor.com/m/FetQ_KhWgd4AAAAC/chill-guy.gif" height="350" width="1000" alt="Animated developer gif" />
 </p>
 
 <h1 align="center">Hi there, I'm Rohan 👋</h1>
